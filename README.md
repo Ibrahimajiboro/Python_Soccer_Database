@@ -1,13 +1,3 @@
-# Python_Soccer_Database
-The datasets were explored to establish the teams with the best results and attributes.
-This soccer database contains data of soccer matches, players and teams from several European countries from 2008 to 2016. 
-the link to the datasets used for analysis is : https://www.kaggle.com/datasets/hugomathien/soccer
-
-
-To create a professional GitHub README based on the project in the Jupyter Notebook, I will provide a general structure and placeholders for key information typically found in a project like "Investigating a Dataset" (in this case, a soccer database). You can refine it with specific details after reviewing the content of your file.
-
----
-
 # Soccer Database Analysis
 
 This project involves an in-depth analysis of a soccer dataset, focusing on various metrics, trends and insights drawn from the data. The goal is to explore relationships, identify patterns and establish the teams with the best results and attributes using Python and key data analysis libraries. This soccer dataset contains data of soccer matches, players and teams from several European countries from 2008 to 2016. The link to the datasets used for analysis is : https://www.kaggle.com/datasets/hugomathien/soccer
@@ -33,7 +23,7 @@ The "Soccer Database Analysis" project aims to investigate various aspects of so
 
 - **Dataset Name**: Soccer Database
 - **Source**: [Insert Source, e.g., Kaggle, Official Soccer League Data]
-- **Description**: This dataset contains records on match outcomes, player statistics, teams, and much more from various seasons.
+- **Description**: This dataset contains records on match outcomes, player statistics, teams and much more from various seasons.
 - **Size**: [Insert number of records and features]
   
 The dataset is cleaned and processed before analysis, ensuring data accuracy and relevance for the findings presented.
