@@ -1,6 +1,6 @@
 # Soccer Database Analysis
 
-This project involves an in-depth analysis of a soccer dataset, focusing on various metrics, trends and insights drawn from the data. The goal is to explore relationships, identify patterns and establish the teams with the best results and attributes using Python and key data analysis libraries. This soccer dataset contains data of soccer matches, players and teams from several European countries from 2008 to 2016. The link to the datasets used for analysis is : https://www.kaggle.com/datasets/hugomathien/soccer
+This project involves an in-depth analysis of a soccer dataset, focusing on various metrics, trends and insights drawn from the data. The goal is to explore relationships, identify patterns and establish the teams with the best results and attributes using Python and key data analysis libraries. This soccer dataset contains data of soccer matches, players and teams from several European countries from 2008 to 2016. 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -22,9 +22,8 @@ The "Soccer Database Analysis" project aims to investigate various aspects of so
 ## Dataset Overview
 
 - **Dataset Name**: Soccer Database
-- **Source**: [Insert Source, e.g., Kaggle, Official Soccer League Data]
+- **Source**: (https://www.kaggle.com/datasets/hugomathien/soccer)
 - **Description**: This dataset contains records on match outcomes, player statistics, teams and much more from various seasons.
-- **Size**: [Insert number of records and features]
   
 The dataset is cleaned and processed before analysis, ensuring data accuracy and relevance for the findings presented.
 
