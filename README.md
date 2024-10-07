@@ -97,6 +97,3 @@ Contributions to this project are welcome. If you have suggestions for improveme
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-This README structure will serve as a professional introduction and guide for the GitHub project based on your analysis of the soccer dataset. You can customize the placeholders and content according to the specifics of your project file.
